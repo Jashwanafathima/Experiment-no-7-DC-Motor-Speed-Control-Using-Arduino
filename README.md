@@ -59,7 +59,8 @@ void loop()
 ```
 ### OUTPUT
 
-![WhatsApp Image 2024-04-05 at 4 23 07 PM](https://github.com/Jashwanafathima/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119560192/27cc08fb-e9e0-4494-8947-c30e2f5835ec)
+![WhatsApp Image 2024-04-08 at 8 53 11 AM](https://github.com/Jashwanafathima/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119560192/121f4e94-6497-400c-b7ca-90964925a138)
+
 
 ![WhatsApp Image 2024-04-08 at 8 54 25 AM](https://github.com/Jashwanafathima/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119560192/7b4d2d1b-981c-4a5b-beb4-7bdb85b8d7f5)
 
