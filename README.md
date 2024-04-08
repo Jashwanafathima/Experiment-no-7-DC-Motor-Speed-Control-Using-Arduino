@@ -1,6 +1,6 @@
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 
-###  DATE: 
+###  DATE: 5.4.24
 
 ###  NAME: JASHWANA FATHIMA S 
 
